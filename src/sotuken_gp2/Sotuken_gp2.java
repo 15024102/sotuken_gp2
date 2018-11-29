@@ -15,7 +15,7 @@ public class Sotuken_gp2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("24");
+        System.out.println("25");
     }
     
 }
